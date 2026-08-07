@@ -1,2 +1,2 @@
 # About Me:
-I'm Ali, CCE student, learning ML on my own.
+I'm Ali, CCE student, learning ML/AI on my own.
